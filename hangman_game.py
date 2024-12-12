@@ -1,6 +1,5 @@
 import time
 import random
-# Define the hangman stages with text animations
 def print_hangman(stage):
     stages = [
         """
